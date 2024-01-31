@@ -36,6 +36,16 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+talks:
+  hidden: true
+
+main:
+  links:
+    # - name: Program
+    #   relative_url: /program/
+
+
+
 defaults:
   - scope:
       path: ""
