@@ -63,16 +63,15 @@ defaults:
 # Theme default values
 conference:
   lang: en
+  
   show_errors: true
   
-
-
   # Navigation bar
   navigation:
-    logo:
-      name: HPC_RSE-ISC24
-      # img: 'excalibur-logo-1018-mini.png'
-      url: 'https://ma595.github.io/RSE_HPC-ISC24/'
+    # logo:
+    #   name: HPC_RSE-ISC24
+    #   # img: 'excalibur-logo-1018-mini.png'
+    #   url: 'https://ma595.github.io/RSE_HPC-ISC24/'
     links:
       - name: Programme
         relative_url: /program/
@@ -87,23 +86,24 @@ conference:
       # - name: Code of conduct
       #   relative_url: /code-of-conduct/
   link_preview:
-      disable: false
+      disable: true
 
   main:
+    # pass
     links:
     # - name: Program
     #   relative_url: /program/
   talks:
     hidden: true
     hide_icons: false
-  speakers:
-    show_firstname: true
+  # speakers:
+  #   show_firstname: true
 
-  location:
-    url: '/location'
-    map: true
+  # location:
+  #   url: '/location'
+  #   map: true
 
-  program:
-    url: '/program'
-    time_steps: 15
-    show_alltimes: true
+  # program:
+  #   url: '/program'
+  #   time_steps: 15
+  #   show_alltimes: true
