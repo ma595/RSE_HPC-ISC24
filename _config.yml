@@ -27,7 +27,7 @@ exclude:
 # Collections and their defaults
 collections:
   talks:
-    output: false
+    output: true
     permalink: /:collection/:title/
   speakers:
     output: true
@@ -107,6 +107,9 @@ conference:
 
   talks:
     hidden: true
+    main_categories:
+      - name: Cat A
+        color: info
 
   link_preview:
     disable: false
