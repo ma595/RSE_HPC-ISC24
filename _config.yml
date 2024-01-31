@@ -65,13 +65,7 @@ conference:
   lang: en
   show_errors: true
   
-  talks:
-    hidden: true
 
-  main:
-    links:
-    # - name: Program
-    #   relative_url: /program/
 
   # Navigation bar
   navigation:
@@ -95,6 +89,13 @@ conference:
   link_preview:
       disable: false
 
+  main:
+    links:
+    # - name: Program
+    #   relative_url: /program/
+  talks:
+    hidden: true
+    hide_icons: false
   speakers:
     show_firstname: true
 
