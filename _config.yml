@@ -8,6 +8,9 @@ url: "https://ma595.github.io/RSE_HPC-ISC24/" # the base hostname & protocol for
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.3"
 
+plugins:
+  - jekyll-include-cache
+
 # Build settings
 markdown: kramdown
 sass:
