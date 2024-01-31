@@ -64,7 +64,7 @@ defaults:
 conference:
   lang: en
 
-  show_errors: true
+  show_errors: false
 
   # Navigation bar
   navigation:
