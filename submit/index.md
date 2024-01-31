@@ -17,6 +17,6 @@ Each attendee may only give one talk.
 HPCRSE-ISC24 will emphasise an open and inclusive atmosphere, and we encourage proposals from a diverse range of backgrounds.
 If you have any questions about submitting a talk, feel free to contact [Stefanie Reuter (submissions@hpcrse-isc24.org)](mailto:submissions@hpcrse-isc24.org)).
 
-<iframe src="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_KUlHBjMfMCwjuZW8t1GufMmEnH8whGTbyfpTXVG7ROQeBQ/viewform?embedded=true" width="900" height="1750" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_KUlHBjMfMCwjuZW8t1GufMmEnH8whGTbyfpTXVG7ROQeBQ/viewform?embedded=true" width="900" height="1750" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
