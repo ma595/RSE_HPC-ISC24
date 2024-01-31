@@ -52,6 +52,27 @@ defaults:
     values:
       layout: room
 
+
+# Navigation bar
+navigation:
+  logo:
+    name: HPC_RSE-ISC24
+    # img: 'excalibur-logo-1018-mini.png'
+    url: 'https://ma595.github.io/RSE_HPC-ISC24/'
+  links:
+    - name: Programme
+      relative_url: /program/
+    # - name: Talks
+    #   relative_url: /talks/
+    # - name: Speakers
+    #   relative_url: /speakers/
+    # - name: Registration
+    #   relative_url: /registration/
+    - name: Talk submission
+      relative_url: /submit/
+    # - name: Code of conduct
+    #   relative_url: /code-of-conduct/
+
 # Theme default values
 conference:
   lang: en
