@@ -107,9 +107,9 @@ conference:
 
   talks:
     hidden: true
-    main_categories:
-      - name: Cat A
-        color: info
+    # main_categories:
+    #   - name: Cat A
+    #     color: info
 
   link_preview:
     disable: false
