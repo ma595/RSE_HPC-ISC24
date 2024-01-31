@@ -1,15 +1,12 @@
 title: HPCRSE-ISC24
-preposition: at
+preposition: 'at'
 description: >-
   Enhancing the symbiosis between HPC and RSE communities, 16th May 2024, ISC, Hamburg
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ma595.github.io/RSE_HPC-ISC24/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.3"
-
-plugins:
-  - jekyll-include-cache
 
 # Build settings
 markdown: kramdown
@@ -39,6 +36,8 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+    # - name: Program
+    #   relative_url: /program/
 
 
 
@@ -60,43 +59,56 @@ defaults:
       layout: room
 
 
+# Navigation bar
+navigation:
+  logo:
+    name: HPC_RSE-ISC24
+    # img: 'excalibur-logo-1018-mini.png'
+    url: 'https://ma595.github.io/RSE_HPC-ISC24/'
+  links:
+    - name: Programme
+      relative_url: /program/
+    # - name: Talks
+    #   relative_url: /talks/
+    # - name: Speakers
+    #   relative_url: /speakers/
+    # - name: Registration
+    #   relative_url: /registration/
+    - name: Talk submission
+      relative_url: /submit/
+    # - name: Code of conduct
+    #   relative_url: /code-of-conduct/
+    #
+
 # Theme default values
 conference:
   lang: en
-  
   show_errors: true
   
-  # Navigation bar
-  navigation:
-    # logo:
-    #   name: HPC_RSE-ISC24
-    #   # img: 'excalibur-logo-1018-mini.png'
-    #   url: 'https://ma595.github.io/RSE_HPC-ISC24/'
-    links:
-      - name: Programme
-        relative_url: /program/
-      # - name: Talks
-      #   relative_url: /talks/
-      # - name: Speakers
-      #   relative_url: /speakers/
-      # - name: Registration
-      #   relative_url: /registration/
-      - name: Talk submission
-        relative_url: /submit/
-      # - name: Code of conduct
-      #   relative_url: /code-of-conduct/
-  link_preview:
-      disable: true
+  talks:
+    hidden: true
 
   main:
-    # pass
     links:
-    # - name: Program
-    #   relative_url: /program/
-  talks:
-    # main: false
-    hidden: true
-    hide_icons: false
+  
+    # Live indications
+  live:
+    date: 01.07.2024
+    timezone: GMT+1
+    stop:       240  # in minutes
+    streaming:
+      enable: false
+      pause:     60  # in minutes
+      prepend:    5  # in minutes
+      extend:     5  # in minutes
+    demo:
+      enable: false
+      duration: 300  # in seconds
+      pause:     10  # in seconds
+
+  link_preview:
+    disable: false
+
   # speakers:
   #   show_firstname: true
 
@@ -104,7 +116,7 @@ conference:
   #   url: '/location'
   #   map: true
 
-  # program:
-  #   url: '/program'
-  #   time_steps: 15
-  #   show_alltimes: true
+  program:
+    url: '/program'
+    time_steps: 15
+    show_alltimes: false
