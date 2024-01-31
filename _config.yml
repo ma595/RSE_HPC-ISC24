@@ -1,7 +1,8 @@
-title: Conference 2020
-preposition: ''
+title: HPCRSE-ISC24
+preposition: 'at'
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  Enhancing the symbiosis between HPC and RSE communities, 16th May 2024, ISC, Hamburg
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -76,7 +77,7 @@ navigation:
 # Theme default values
 conference:
   lang: en
-  show_errors: True
+  show_errors: False
 
   link_preview:
     disable: false
