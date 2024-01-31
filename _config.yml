@@ -77,7 +77,7 @@ navigation:
 # Theme default values
 conference:
   lang: en
-  show_errors: False
+  show_errors: false
 
   link_preview:
     disable: false
