@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Symbiosis](/assets/images/symbiosis.jpg){:style="display:block; width:800px; margin-left:auto; margin-right:auto"}
+![Symbiosis](/assets/images/symbiosis.jpg){:style="display:block; width:700px; height:400px; margin-left:auto; margin-right:auto"}
 
 Communities grow and develop, in part, due to the training, career paths and outreach that they provide. But communities seem to exist at many different levels even when they share commonalities. For instance, High Performance Computing (HPC) specialisation is often a relatively distinct subgrouping within the wider Research Software Engineering (RSE) community. Similarly, RSE can also be considered a distinct subgroup within the wider HPC community. In different countries, this can lead to different ways of sharing expertise and experience between the general RSE and HPC groups. 
 
@@ -12,7 +12,7 @@ We will hear from individuals who have established roles in HPC and RSE communit
 
 ## Talk submissions. 
 
-To present a talk at RSEHPC@ISC24 use the [form on the Talk submission page](/submit/). RSEHPC@ISC24 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of scientific areas and backgrounds.
+To present a talk at RSEHPC@ISC24 use the [form on the Talk submission page](/submit/). RSEHPC@ISC24 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
 
 The deadline for submissions is **29 Feb 2024**
 
@@ -28,3 +28,5 @@ The deadline for submissions is **29 Feb 2024**
 - René Caspart (Karlsruhe Institute of Technology)
 - Fernanda Foertter (Voltrondata)
 - Neil Chue Hong (EPCC and Software Sustainability Institute)
+
+## Code of conduct
