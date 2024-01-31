@@ -94,6 +94,7 @@ conference:
     # - name: Program
     #   relative_url: /program/
   talks:
+    main: false
     hidden: true
     hide_icons: false
   # speakers:
