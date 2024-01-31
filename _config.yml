@@ -1,5 +1,5 @@
 title: HPCRSE-ISC24
-preposition: 'at'
+preposition: at
 description: >-
   Enhancing the symbiosis between HPC and RSE communities, 16th May 2024, ISC, Hamburg
 
@@ -36,13 +36,6 @@ collections:
     output: true
     permalink: /:collection/:title/
 
-talks:
-  hidden: true
-
-main:
-  links:
-    # - name: Program
-    #   relative_url: /program/
 
 
 
@@ -64,33 +57,40 @@ defaults:
       layout: room
 
 
-# Navigation bar
-navigation:
-  logo:
-    name: HPC_RSE-ISC24
-    # img: 'excalibur-logo-1018-mini.png'
-    url: 'https://ma595.github.io/RSE_HPC-ISC24/'
-  links:
-    - name: Programme
-      relative_url: /program/
-    # - name: Talks
-    #   relative_url: /talks/
-    # - name: Speakers
-    #   relative_url: /speakers/
-    # - name: Registration
-    #   relative_url: /registration/
-    - name: Talk submission
-      relative_url: /submit/
-    # - name: Code of conduct
-    #   relative_url: /code-of-conduct/
-
 # Theme default values
 conference:
   lang: en
   show_errors: false
+  
+  talks:
+    hidden: true
 
+  main:
+    links:
+    # - name: Program
+    #   relative_url: /program/
+
+  # Navigation bar
+  navigation:
+    logo:
+      name: HPC_RSE-ISC24
+      # img: 'excalibur-logo-1018-mini.png'
+      url: 'https://ma595.github.io/RSE_HPC-ISC24/'
+    links:
+      - name: Programme
+        relative_url: /program/
+      # - name: Talks
+      #   relative_url: /talks/
+      # - name: Speakers
+      #   relative_url: /speakers/
+      # - name: Registration
+      #   relative_url: /registration/
+      - name: Talk submission
+        relative_url: /submit/
+      # - name: Code of conduct
+      #   relative_url: /code-of-conduct/
   link_preview:
-    disable: false
+      disable: false
 
   speakers:
     show_firstname: true
