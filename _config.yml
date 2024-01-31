@@ -5,6 +5,8 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.3"
+
 # Build settings
 markdown: kramdown
 sass:
@@ -18,7 +20,6 @@ exclude:
   - LICENSE.md
   - REDISTRIBUTED.md
   - screenshot.png
-  - jekyll-theme-conference.gemspec
   - purgecss.config.js
   - _config.example.yml
 
