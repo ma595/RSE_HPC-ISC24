@@ -1,5 +1,5 @@
 ---
-layout: programme
+layout: program
 ---
 
 The program consists of a half day of talks.
