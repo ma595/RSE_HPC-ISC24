@@ -63,7 +63,7 @@ defaults:
 # Theme default values
 conference:
   lang: en
-  show_errors: false
+  show_errors: true
   
   talks:
     hidden: true
