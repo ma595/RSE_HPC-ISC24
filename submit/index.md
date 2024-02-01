@@ -14,7 +14,9 @@ Do you have a story to tell how the RSE/HPC community helped improve a project f
 You can use the form below to propose a talk or poster to be presented at RSEHPC@ISC24.The deadline for submissions is **29th Feb 2024**.  Each attendee may only give one talk.
 
 RSEHPC@ISC24 will emphasise an open and inclusive atmosphere, and we encourage proposals from a diverse range of backgrounds.
-If you have any questions about submitting a talk, feel free to contact [Stefanie Reuter or Matt Archer (submissions@isc24.rse-hpc.org)](mailto:submissions@isc24.rse-hpc.org)).
+If you have any questions about submitting a talk, feel free to contact [Stefanie Reuter (sr2003@cam.ac.uk) ](mailto:sr2003@cam.ac.uk) or [Matthew Archer (ma595@cam.ac.uk) ](mailto:ma595@cam.ac.uk).
+
+> possible website address: (mailto:submissions@isc24.rse-hpc.org
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScsUOWy_Yl-xik6Us6OveVQW7L44IGc5eWtpBi57jjgi318Dg/viewform?embedded=true" width="900" height="1750" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
