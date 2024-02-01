@@ -70,7 +70,7 @@ conference:
   navigation:
     logo:
       name: RSEHPC@ISC24
-      # img: 'excalibur-logo-1018-mini.png'
+      img: 'ISC2024_Logo-motto-datum_rgb_web.png'
       url: 'https://ma595.github.io/RSE_HPC-ISC24/'
     links:
       - name: Programme
