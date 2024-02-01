@@ -80,8 +80,8 @@ conference:
       #   relative_url: /talks/
       # - name: Speakers
       #   relative_url: /speakers/
-      # - name: Registration
-      #   relative_url: /registration/
+      - name: Topics
+        relative_url: /topics/
       - name: Submission
         relative_url: /submit/
       # - name: Code of conduct
