@@ -72,7 +72,7 @@ conference:
       #name: RSEHPC@ISC24
       img: "ISC2024_Logo-motto-datum_rgb_web.png"
       style: "height: 5em;"
-      url: 'https://ma595.github.io/RSE_HPC-ISC24/'
+      url: 'https://www.isc-hpc.com/'
     links:
       - name: Programme
         relative_url: /program/
