@@ -4,3 +4,7 @@
 $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 
 @import 'conference';
+
+.navbar-logo img {
+    height: 5em
+}
