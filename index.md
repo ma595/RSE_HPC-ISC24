@@ -28,5 +28,6 @@ The deadline for submissions is **29 Feb 2024**
 - René Caspart (Karlsruhe Institute of Technology)
 - Fernanda Foertter (Voltrondata)
 - Neil Chue Hong (EPCC and Software Sustainability Institute)
+- Mthetho Sovara (CSIR)
 
 ## Code of conduct
