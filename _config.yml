@@ -70,7 +70,7 @@ conference:
   navigation:
     logo:
       #name: RSEHPC@ISC24
-      img: "/assets/images/ISC2024_Logo-motto-datum_rgb_web.png"
+      img: "ISC2024_Logo-motto-datum_rgb_web.png"
       #style="display:block; width:100px; margin-left:auto; margin-right:auto"
       url: 'https://ma595.github.io/RSE_HPC-ISC24/'
     links:
