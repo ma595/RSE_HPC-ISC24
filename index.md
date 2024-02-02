@@ -8,7 +8,7 @@ Communities grow and develop, in part, due to the training, career paths and out
 
 In this workshop we will explore the characteristics and approaches to this sharing, with the aim to understand what lessons can be learned to ensure both groups can mutually benefit from each other.  
 
-We will hear from individuals who have established roles in HPC and RSE communities as well as speakers who are new to the RSE/HPC community. In addition, we have invited a speaker to share experiences of building HPC-RSE communities in Africa. The workshop will be concluded by a panel discussion on diversity, career paths, training opportunities and the dynamic relationship between RSE and HPC communities. 
+We will hear from individuals who have established roles in HPC and RSE communities as well as speakers who are new to the RSE/HPC community. The workshop will be concluded by a panel discussion on diversity, career paths, training opportunities and the dynamic relationship between RSE and HPC communities. 
 
 ## Talk submissions. 
 
