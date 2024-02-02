@@ -3,8 +3,8 @@ preposition: 'at'
 description: >-
   Enhancing the symbiosis between HPC and RSE communities, 16th May 2024, ISC, Hamburg
 
-baseurl: "/RSE_HPC-ISC24" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "www.rse-hpc.org" # the base hostname & protocol for your site, e.g. https://example.com
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.3"
 
