@@ -12,7 +12,7 @@ We will hear from individuals who have established roles in HPC and RSE communit
 
 ## Talk submissions. 
 
-To present a talk at RSEHPC@ISC24 use the [form on the Talk submission page](/RSE_HPC-ISC24/submit/). RSEHPC@ISC24 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
+To present a talk at RSEHPC@ISC24 use the [form on the Talk submission page](/submit/). RSEHPC@ISC24 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
 
 The deadline for submissions is **29 Feb 2024**
 
@@ -31,3 +31,4 @@ The deadline for submissions is **29 Feb 2024**
 - Mthetho Sovara (CSIR)
 
 ## Code of conduct
+Coming soon..
