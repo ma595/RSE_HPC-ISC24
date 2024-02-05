@@ -4,16 +4,17 @@ title: Talk submission
 ---
 Do you work as a Research Software Engineer (RSE) or a High Performance Computing (HPC) engineer? Or are you currently studying with a view to pursue a career in these areas? 
 
-Share your experiences, for example by answering one or more of the following questions (More [topic suggestions](/RSE_HPC-ISC24/topics/)): 
+Share your experiences, for example by answering one or more of the following questions (More topic suggestions can be found in section [topics](/RSE_HPC-ISC24/topics/)): 
 
 - Has the RSE/HPC community helped improve a project, for example by finding collaboration partners or - providing training?
 - Have you been involved in developing a training course or establishing career paths at an institute? 
 - Have developed or used a training format that you think other people should know about?
-- What has been your experience in  linking HPC and RSE communities? 
+- What has been your experience in linking HPC and RSE communities? 
 
-Submission Deadline:        29. Feb 2024
-Notification:               16. March 2024
-Workshop date:			    16. May 2024
+Important dates:
+- Submission Deadline:        29. Feb 2024
+- Notification:               16. March 2024
+- Workshop date:			  16. May 2024
 
 
 As part of the Workshop track at ISC24 (International Supercomputing Conference) we are looking for 10 min presentations:
