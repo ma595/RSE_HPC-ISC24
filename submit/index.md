@@ -12,9 +12,10 @@ Share your experiences, for example by answering one or more of the following qu
 - What has been your experience in linking HPC and RSE communities? 
 
 Important dates:
-- Submission Deadline:        29. Feb 2024
-- Notification:               16. March 2024
-- Workshop date:			  16. May 2024
+
+- Submission Deadline         29. Feb 2024
+- Notification                16. March 2024
+- Workshop date 			  16. May 2024
 
 
 As part of the Workshop track at ISC24 (International Supercomputing Conference) we are looking for 10 min presentations:
