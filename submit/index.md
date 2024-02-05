@@ -17,7 +17,7 @@ Workshop date:			    16. May 2024
 
 
 As part of the Workshop track at ISC24 (International Supercomputing Conference) we are looking for 10 min presentations:
-- Early career speaker**: We are looking for early career RSE or HPC engineers or students who could share their experiences entering the RSE/HPC community or a story of how a collaboration/project was made possible because of community involvement. 
+- Early career speaker: We are looking for early career RSE or HPC engineers or students who could share their experiences entering the RSE/HPC community or a story of how a collaboration/project was made possible because of community involvement. 
 - Career Paths and training formats: We are looking for individuals who can talk about specific career paths in the RSE/HPC community or training formats/platforms. 
 - Experiences in connecting HPC+RSE in projects. 
 
