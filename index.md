@@ -12,6 +12,9 @@ We will hear from individuals who have established roles in HPC and RSE communit
 
 The inaugural RSEHPC@ISC24 will be held in-person on 16th May 2024 in Hamburg.
 
+## Featured speakers
+We are delighted to announce that Fernanda Foertter and Mthetho Sovara agreed to be our keynote speakers.
+
 ## Talk submissions
 
 To present a talk at RSEHPC@ISC24 use the [form on the Talk submission page](/submit/). RSEHPC@ISC24 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
