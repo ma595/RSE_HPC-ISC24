@@ -38,4 +38,4 @@ The deadline for submissions is **29 Feb 2024**
 
 ## Code of conduct
 
-Coming soon..
+As an ISC co-located workshop we follow ISC's code of conduct, which can be found [https://www.isc-hpc.com/code-of-conduct.html](https://www.isc-hpc.com/code-of-conduct.html)
