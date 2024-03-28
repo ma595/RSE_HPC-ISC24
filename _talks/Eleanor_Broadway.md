@@ -1,0 +1,10 @@
+---
+name: Fostering Early Career Skill Development in HPC and RSE: Leveraging Community Support
+speakers:
+  - Eleanor Broadway
+categories:
+  - HPC-RSE
+  - Talk
+---
+
+As computational research advances, the convergence of Research Software Engineering (RSE) and High Performance Computing (HPC) becomes more pronounced as both expertise play crucial roles in addressing modern scientific challenges. For example, the UK’s national HPC service, ARCHER2, relies on an embedded team of RSEs to provide essential support, illustrating the intersection of the HPC and RSE communities. Such roles are dynamic and exciting but require a diverse set of skills from proficiency in parallel computing and optimisation strategies to effective communication and the translation of technical concepts into accessible language. The RSE and HPC communities both offer rich and diverse career development pathways to develop these essential skills. Whether through specialist training programmes, collaborative research projects, or professional development activities like workshops and conferences, these communities have access to resources which enable them to refine their skills and stay at the forefront of computational research innovation. By embracing these pathways, RSEs and HPC practitioners can thrive in their roles. Drawing from personal experience as an early career researcher transitioning into this dynamic role, this talk will provide insights into the essential skills required to grow in this interdisciplinary environment. I will discuss the skills I brought to this role, those I needed to develop, and how the communities supported my development. This presentation aims to offer valuable insights into career development pathways and fostering the acquisition of new skills essential for achieving success.

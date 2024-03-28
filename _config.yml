@@ -107,10 +107,10 @@ conference:
       pause:     10  # in seconds
 
   talks:
-    hidden: true
-    # main_categories:
-    #   - name: Cat A
-    #     color: info
+    #hidden: true
+    main_categories:
+      - name: HPC-RSE
+        color: info
 
   link_preview:
     disable: false

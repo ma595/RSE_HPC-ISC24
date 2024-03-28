@@ -19,7 +19,7 @@ We are delighted to announce that Fernanda Foertter and Mthetho Sovara agreed to
 
 To present a talk at RSEHPC@ISC24 use the [form on the Talk submission page](/submit/). RSEHPC@ISC24 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
 
-The deadline for submissions is **29 Feb 2024**
+The deadline for submissions is **29 Feb 2024**.
 
 ## Organising committee
 
@@ -38,4 +38,4 @@ The deadline for submissions is **29 Feb 2024**
 
 ## Code of conduct
 
-As an ISC co-located workshop we follow ISC's code of conduct, which can be found [https://www.isc-hpc.com/code-of-conduct.html](https://www.isc-hpc.com/code-of-conduct.html)
+As an ISC co-located workshop we follow ISC's code of conduct, which can be found at [https://www.isc-hpc.com/code-of-conduct.html](https://www.isc-hpc.com/code-of-conduct.html)
