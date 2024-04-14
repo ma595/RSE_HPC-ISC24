@@ -1,5 +1,5 @@
 ---
-name: tbd
+name: Keynote Fernanda 
 speakers:
   - Fernanda Foertter
 categories:
