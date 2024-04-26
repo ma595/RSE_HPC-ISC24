@@ -1,5 +1,5 @@
 ---
-name: Keynote Fernanda 
+name: Featured Talk - Fernanda 
 speakers:
   - Fernanda Foertter
 categories:
