@@ -1,5 +1,5 @@
 ---
-name: Bridging Continents: My Journey from African Aerospace to Worldwide Research
+name: Bridging Continents - My Journey from African Aerospace to Worldwide Research
 speakers:
   - Samuel Mathekga
 categories:

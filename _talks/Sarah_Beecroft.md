@@ -1,5 +1,5 @@
 ---
-name: AlphaFold x AMD: Uniting Diverse Expertise for Breakthrough Computational Biology
+name: AlphaFold x AMD - Uniting Diverse Expertise for Breakthrough Computational Biology
 speakers:
   - Sarah Beecroft 
 categories:

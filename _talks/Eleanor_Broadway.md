@@ -1,5 +1,5 @@
 ---
-name: Fostering Early Career Skill Development in HPC and RSE: Leveraging Community Support
+name: Fostering Early Career Skill Development in HPC and RSE - Leveraging Community Support
 speakers:
   - Eleanor Broadway
 categories:
