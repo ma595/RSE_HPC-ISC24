@@ -76,10 +76,10 @@ conference:
     links:
       - name: Programme
         relative_url: /program/
-      # - name: Talks
-      #   relative_url: /talks/
-      # - name: Speakers
-      #   relative_url: /speakers/
+      - name: Talks
+        relative_url: /talks/
+      - name: Speakers
+        relative_url: /speakers/
       - name: Topics
         relative_url: /topics/
       - name: Submission
