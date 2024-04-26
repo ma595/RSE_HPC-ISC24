@@ -1,4 +1,4 @@
 ---
-layout: page
-title: Programme
+layout: program
+#title: Programme
 ---
