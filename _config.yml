@@ -64,7 +64,7 @@ defaults:
 conference:
   lang: en
 
-  show_errors: false
+  show_errors: True
 
   # Navigation bar
   navigation:
@@ -115,8 +115,8 @@ conference:
   link_preview:
     disable: false
 
-  # speakers:
-  #   show_firstname: true
+  speakers:
+    show_firstname: true
 
   # location:
   #   url: '/location'
