@@ -125,5 +125,5 @@ conference:
 
   program:
     url: '/program'
-    time_steps: 5
+    time_steps: 15
     show_alltimes: false
