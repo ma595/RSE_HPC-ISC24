@@ -31,7 +31,7 @@ days:
         time_end: '15:45'
       - name: Synergy of HPC Training and Research Software Development
         time_start: '15:45'
-        time_end: '16:55'
+        time_end: '15:55'
       - name: Featured Talk - Mthetho
         time_start: '16:30'
         time_end:  '17:00'
