@@ -1,5 +1,5 @@
 ---
-name: CodeRefinery: my pathway into Research Software Engineering 
+name: CodeRefinery - my pathway into Research Software Engineering 
 speakers:
   - Samantha Wittke
 categories:

@@ -20,7 +20,7 @@ days:
       - name: Software engineering for validating finite-temperature XC-functional
         time_start: '15:00'
         time_end: '15:10'
-      - name: CodeRefinery: my pathway into Research Software Engineering
+      - name: CodeRefinery - my pathway into Research Software Engineering
         time_start: '15:15'
         time_end: '15:25'
       - name: UNIVERSE-HPC - Defining MSc programme for RSEs in HPC 
