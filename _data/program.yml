@@ -32,7 +32,7 @@ days:
       - name: Synergy of HPC Training and Research Software Development
         time_start: '15:45'
         time_end: '15:55'
-      - name: Featured Talk - Mthetho
+      - name: Featured Talk - Leveraging HPC and RSE for addressing Africa's socio-economic and scientific challenges
         time_start: '16:30'
         time_end:  '17:00'
       - name: Fostering Early Career Skill Development in HPC and RSE - Leveraging Community Support
